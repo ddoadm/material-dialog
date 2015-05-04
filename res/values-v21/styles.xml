@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <style name="MD_Light" parent="android:Theme.Material.Light.Dialog.Alert">
         <item name="md_divider">@color/md_divider_black</item>
         <item name="md_list_selector">?android:selectableItemBackground</item>
@@ -18,5 +17,4 @@
         <item name="md_btn_neutral_selector">@drawable/md_btn_selector_ripple_dark</item>
         <item name="md_btn_negative_selector">@drawable/md_btn_selector_ripple_dark</item>
     </style>
-
 </resources>
